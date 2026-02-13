@@ -10,7 +10,7 @@ const { CreatePayment, UpdateEscrow, getTransactionsById } = require("../control
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "*",
     credentials: true,
   })
 );
