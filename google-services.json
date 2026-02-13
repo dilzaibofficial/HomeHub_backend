@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338309346176",
+    "project_id": "kirayedar-ef505",
+    "storage_bucket": "kirayedar-ef505.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338309346176:android:26b0fcc14ff8ef28cf8765",
+        "android_client_info": {
+          "package_name": "com.tempapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvBnkb_8lJ5D8vzn1Zvnmjunukpma6RzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
